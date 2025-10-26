@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanket Harishchandra Tambe</h1>
 <h3 align="center">A passionate Java developer from India</h3>
 
-- 🌱 I’m currently learning **Next js**
+- 🌱 I’m currently learning **AI**
 
 - 💬 Ask me about **Java, React, Spring**
 
